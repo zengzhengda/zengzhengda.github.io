@@ -15,7 +15,7 @@
   <entry>
     <title><![CDATA[广告算法入门指南]]></title>
     <url>%2F2020%2F01%2F13%2Frecommendation_advertising%2F%E5%B9%BF%E5%91%8A%E7%AE%97%E6%B3%95%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%2F</url>
-    <content type="text"><![CDATA[广告算法入门业界范例头条：https://ad.oceanengine.com/school/help?category_id=6617723607722229768facebook: https://www.facebook.com/business/help/272503946776144?id=2196356200683573产品形态模块oCPCoCPM转化预估出价系统技术点DNN转化率预估稀疏场景预估label延迟场景预估DSSMFaissXMind: ZEN - Trial Version]]></content>
+    <content type="text"><![CDATA[广告算法入门业界范例头条：https://ad.oceanengine.com/school/help?category_id=6617723607722229768 facebook:https://www.facebook.com/business/help/272503946776144?id=2196356200683573 产品形态模块oCPCoCPM转化预估出价系统技术点DNN转化率预估稀疏场景预估label延迟场景预估DSSMFaissXMind: ZEN - Trial Version]]></content>
       <categories>
         <category>推荐广告</category>
         <category>算法</category>
@@ -24,6 +24,17 @@
         <tag>算法</tag>
         <tag>广告</tag>
         <tag>推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[python使用中的实用小知识]]></title>
+    <url>%2F2020%2F01%2F06%2Fpython%2Fpython%E4%BD%BF%E7%94%A8%E4%B8%AD%E7%9A%84%E5%AE%9E%E7%94%A8%E5%B0%8F%E7%9F%A5%E8%AF%86%2F</url>
+    <content type="text"><![CDATA[python基础执行路径的问题 查看执行路径 1execute_path = os.getcwd() 查看系统path 1print(sys.path) os.getcwd() 和sys.path的关系是什么？ import包的时候，用的是哪个路径？]]></content>
+      <categories>
+        <category>工程</category>
+      </categories>
+      <tags>
+        <tag>python - 基础知识</tag>
       </tags>
   </entry>
   <entry>
