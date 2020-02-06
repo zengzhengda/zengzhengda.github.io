@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[python使用中的实用小知识]]></title>
+    <url>%2F2020%2F02%2F06%2Fpython%2Fpython%E4%BD%BF%E7%94%A8%E4%B8%AD%E7%9A%84%E5%AE%9E%E7%94%A8%E5%B0%8F%E7%9F%A5%E8%AF%86%2F</url>
+    <content type="text"><![CDATA[python基础执行路径的问题 查看执行路径 1execute_path = os.getcwd() 查看系统path 1print(sys.path) os.getcwd() 和sys.path的关系是什么？ import包的时候，用的是哪个路径？ import包的一些问题]]></content>
+      <categories>
+        <category>工程</category>
+      </categories>
+      <tags>
+        <tag>python - 基础知识</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[目前主流算法应用场景调研]]></title>
     <url>%2F2020%2F01%2F13%2Falgorithm%2F%E7%9B%AE%E5%89%8D%E4%B8%BB%E6%B5%81%E7%AE%97%E6%B3%95%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%E8%B0%83%E7%A0%94%2F</url>
     <content type="text"><![CDATA[算法方向应用领域安防 computing vision 金融 computing vision 风控算法 推荐搜索广告 电商场景 搜索场景 信息流场景 文本内容 图像内容 视频内容 广告场景 无人驾驶 computing vision SLAM 自然语言处理应用 智能客服、问答 机器翻译 物流、出行场景 路径规划 时效预估 XMind: ZEN - Trial Version]]></content>
@@ -24,17 +35,6 @@
         <tag>算法</tag>
         <tag>广告</tag>
         <tag>推荐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[python使用中的实用小知识]]></title>
-    <url>%2F2020%2F01%2F06%2Fpython%2Fpython%E4%BD%BF%E7%94%A8%E4%B8%AD%E7%9A%84%E5%AE%9E%E7%94%A8%E5%B0%8F%E7%9F%A5%E8%AF%86%2F</url>
-    <content type="text"><![CDATA[python基础执行路径的问题 查看执行路径 1execute_path = os.getcwd() 查看系统path 1print(sys.path) os.getcwd() 和sys.path的关系是什么？ import包的时候，用的是哪个路径？]]></content>
-      <categories>
-        <category>工程</category>
-      </categories>
-      <tags>
-        <tag>python - 基础知识</tag>
       </tags>
   </entry>
   <entry>
